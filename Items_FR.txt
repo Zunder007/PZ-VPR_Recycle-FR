@@ -1,0 +1,6 @@
+Items_FR = {
+	DisplayName_Empty_Lighter = "Briquet vide",
+	DisplayName_Glass_Mold = "Moule en verre",
+	DisplayName_Glass_Shard = "Bris de verre",
+	DisplayName_Glass_Pane = "Vitre",
+}
