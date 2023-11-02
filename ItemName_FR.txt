@@ -1,0 +1,6 @@
+ItemName_FR = {
+	ItemName_Base.EmptyLighter = "Briquet vide",
+	ItemName_Base.GlassMold = "Moule en verre",
+	ItemName_Base.GlassPane = "Vitre",
+	ItemName_Base.GlassShard = "Bris de verre",
+}
